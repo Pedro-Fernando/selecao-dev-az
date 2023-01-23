@@ -9,6 +9,10 @@ Nesta avaliação você deverá criar uma aplicação completa utilizando os fra
 
 **Banco de dados**: PostgreSQL
 
+> **Nota:** A participação neste desafio de programação é voluntária e o participante tem liberdade para escolher o layout do _client_ que desejar, sem qualquer obrigação de seguir o layout proposto no desafio. 
+## História de Usuário
+[Clique aqui.](docs/userstory.md)
+
 ## Exercício 1
 Crie um script para a criação do banco de dados (DDL) contendo todas as tables, columns, constraints (primary key, foreing key e unique) e sequence.
 
